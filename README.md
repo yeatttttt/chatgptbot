@@ -1,1 +1,1 @@
-"# TelegramBot with ChatGPT integrated" 
+TelegramBot with ChatGPT integrated
